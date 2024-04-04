@@ -2,15 +2,22 @@
 Es un método utilizado para modelar la relación entre una o más variables independientes (predictoras) y una variable dependiente (respuesta) continua. La relación entre las variables se modela como una función lineal.
 
 # Regresión Lineal Simple
+<p align="center">
+<img src="Images/regresionlienalsimple.png"  height=600>
+</p>
 
 
 
 
 # Regresión Lineal Múltiple
 
+<p align="center">
+<img src="Images/regresionlienalmultiple.png"  height=300>
+</p>
+
 Existen más tipos de regresiones lienales, como la polinómica
 
-Es importante tener en cuenta que para hacer regresion de manera rigurosa hay que hacer una validación de los datos
+<h1>> Es importante tener en cuenta que para hacer regresion de manera rigurosa hay que hacer una validación de los datos <h1>>
 
 # Validacion de los Datos
 
