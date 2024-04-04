@@ -3,7 +3,7 @@ Es un método utilizado para modelar la relación entre una o más variables ind
 
 # Regresión Lineal Simple
 <p align="center">
-<img src="Images/regresionlienalsimple.png"  height=600>
+<img src="Images/regresionlienalsimple.png"  height=400>
 </p>
 
 
@@ -12,7 +12,7 @@ Es un método utilizado para modelar la relación entre una o más variables ind
 # Regresión Lineal Múltiple
 
 <p align="center">
-<img src="Images/regresionlienalmultiple.png"  height=300>
+<img src="Images/regresionlienalmultiple.png"  height=100>
 </p>
 
 Existen más tipos de regresiones lienales, como la polinómica
