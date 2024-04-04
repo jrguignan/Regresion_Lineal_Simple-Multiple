@@ -1,21 +1,28 @@
 # Regresión Lineal
 Es un método utilizado para modelar la relación entre una o más variables independientes (predictoras) y una variable dependiente (respuesta) continua. La relación entre las variables se modela como una función lineal.
 
+
+
+
 # [Regresión Lineal Simple](https://github.com/jrguignan/Regresion_Lineal_simple_y_multiple/blob/main/regresion_lineal_simple.ipynb)
 
-## Desde Cero - from scratch
+
 <p align="center">
 <img src="Images/regresionlienal_simple.png"  height=300>
 </p>
 
-## Usando Scikit-Learn
+## Desde Cero - from scratch
 <p align="center">
 <img src="Images/regresionlienalsimple1.png"  height=100>
 </p>
 
+## Usando Scikit-Learn
 <p align="center">
 <img src="Images/regresionlienalsimple2.png"  height=90>
 </p>
+
+
+
 
 
 # [Regresión Lineal Múltiple](https://github.com/jrguignan/Regresion_Lineal_simple_y_multiple/blob/main/regresion_lineal_multiple.ipynb)
@@ -33,7 +40,12 @@ Es un método utilizado para modelar la relación entre una o más variables ind
 - Existen más tipos de regresiones lienales, como la ponderada, ridge, lasso, mínimos cuadrados parciales, elasticnet y la logística.
 <br>
 
+
+
+
+
 <h2> Es importante tener en cuenta que para hacer regresión de manera rigurosa hay que hacer una validación de los datos. <h2>
+
 
 # Validación de los Datos
 
@@ -50,6 +62,8 @@ Es un método utilizado para modelar la relación entre una o más variables ind
 **Independencia de los Residuos:** Asegúrate de que los residuos de la regresión no muestren patrones sistemáticos, como autocorrelación. Los gráficos de autocorrelación de residuos pueden ser útiles para detectar este problema.
 
 **Validación Cruzada:** Divide tus datos en conjuntos de entrenamiento y prueba para evaluar el rendimiento del modelo en datos no vistos. La validación cruzada ayuda a evitar el sobreajuste y proporciona una estimación más realista del rendimiento del modelo.
+
+
 
 # Autor
 - José R. Guignan
