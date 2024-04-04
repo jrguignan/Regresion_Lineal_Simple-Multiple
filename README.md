@@ -37,10 +37,12 @@ Es un método utilizado para modelar la relación entre una o más variables ind
 <img src="Images/regresionlienalmultiple2.png"  height=90>
 </p>
 
-- Existen más tipos de regresiones lienales, como la ponderada, ridge, lasso, mínimos cuadrados parciales, elasticnet y la logística.
+*nota:* Existen más tipos de regresiones lienales, como la ponderada, ridge, lasso, mínimos cuadrados parciales, elasticnet y la logística.
 <br>
 
+# Conclusiones
 
+Se produjo lo que se esperaba, dio los mismos valores tanto para los cálculos con ecuacines análiticas como con el uso de la librería sckikit-learn, para 8 decimales dio exactamente igual.
 
 
 
