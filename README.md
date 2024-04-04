@@ -12,12 +12,13 @@ Es un método utilizado para modelar la relación entre una o más variables ind
 # Regresión Lineal Múltiple
 
 <p align="center">
-<img src="Images/regresionlienalmultiple.png"  height=100>
+<img src="Images/regresionlienalmultiple.png"  height=80>
 </p>
 
-Existen más tipos de regresiones lienales, como la polinómica
+Existen más tipos de regresiones lienales, como la ponderada, ridge, lasso, mínimos cuadrados parciales, elasticnet y la logística
+<br>
 
-<h2> Es importante tener en cuenta que para hacer regresion de manera rigurosa hay que hacer una validación de los datos <h2>
+<h2> Es importante tener en cuenta que para hacer regresión de manera rigurosa hay que hacer una validación de los datos <h2>
 
 # Validacion de los Datos
 
