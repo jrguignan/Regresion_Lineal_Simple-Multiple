@@ -3,15 +3,15 @@ Es un método utilizado para modelar la relación entre una o más variables ind
 
 # [Regresión Lineal Simple](https://github.com/jrguignan/Regresion_Lineal_simple_y_multiple/blob/main/regresion_lineal_simple.ipynb)
 <p align="center">
-<img src="Images/regresionlienal_simple.png"  height=500>
+<img src="Images/regresionlienal_simple.png"  height=300>
 </p>
 
 <p align="center">
-<img src="Images/regresionlienalsimple1.png"  height=80>
+<img src="Images/regresionlienalsimple1.png"  height=100>
 </p>
 
 <p align="center">
-<img src="Images/regresionlienalsimple2.png"  height=80>
+<img src="Images/regresionlienalsimple2.png"  height=90>
 </p>
 
 
@@ -22,7 +22,7 @@ Es un método utilizado para modelar la relación entre una o más variables ind
 </p>
 
 <p align="center">
-<img src="Images/regresionlienalmultiple2.png"  height=80>
+<img src="Images/regresionlienalmultiple2.png"  height=90>
 </p>
 
 Existen más tipos de regresiones lienales, como la ponderada, ridge, lasso, mínimos cuadrados parciales, elasticnet y la logística
