@@ -13,12 +13,12 @@ Es un método utilizado para modelar la relación entre una o más variables ind
 
 ## Desde Cero - from scratch
 <p align="center">
-<img src="Images/regresionlienalsimple1.png"  height=100>
+<img src="Images/regresionlienalsimple1.png"  height=120>
 </p>
 
 ## Usando Scikit-Learn
 <p align="center">
-<img src="Images/regresionlienalsimple2.png"  height=90>
+<img src="Images/regresionlienalsimple2.png"  height=108>
 </p>
 
 
@@ -29,7 +29,7 @@ Es un método utilizado para modelar la relación entre una o más variables ind
 
 ## Desde Cero - from scratch
 <p align="center">
-<img src="Images/regresionlienalmultiple1.png"  height=80>
+<img src="Images/regresionlienalmultiple1.png"  height=90>
 </p>
 
 ## Usando Scikit-Learn
