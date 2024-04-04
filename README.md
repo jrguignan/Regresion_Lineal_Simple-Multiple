@@ -3,7 +3,7 @@ Es un método utilizado para modelar la relación entre una o más variables ind
 
 # Regresión Lineal Simple
 <p align="center">
-<img src="Images/regresionlienalsimple.png"  height=400>
+<img src="Images/regresionlienalsimple.png"  height=500>
 </p>
 
 
@@ -17,7 +17,7 @@ Es un método utilizado para modelar la relación entre una o más variables ind
 
 Existen más tipos de regresiones lienales, como la polinómica
 
-<h1>> Es importante tener en cuenta que para hacer regresion de manera rigurosa hay que hacer una validación de los datos <h1>>
+<h2> Es importante tener en cuenta que para hacer regresion de manera rigurosa hay que hacer una validación de los datos <h2>
 
 # Validacion de los Datos
 
