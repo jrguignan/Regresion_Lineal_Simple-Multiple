@@ -2,10 +2,13 @@
 Es un método utilizado para modelar la relación entre una o más variables independientes (predictoras) y una variable dependiente (respuesta) continua. La relación entre las variables se modela como una función lineal.
 
 # [Regresión Lineal Simple](https://github.com/jrguignan/Regresion_Lineal_simple_y_multiple/blob/main/regresion_lineal_simple.ipynb)
+
+## Desde Cero - from scratch
 <p align="center">
 <img src="Images/regresionlienal_simple.png"  height=300>
 </p>
 
+## Usando Scikit-Learn
 <p align="center">
 <img src="Images/regresionlienalsimple1.png"  height=100>
 </p>
@@ -17,22 +20,24 @@ Es un método utilizado para modelar la relación entre una o más variables ind
 
 # [Regresión Lineal Múltiple](https://github.com/jrguignan/Regresion_Lineal_simple_y_multiple/blob/main/regresion_lineal_multiple.ipynb)
 
+## Desde Cero - from scratch
 <p align="center">
 <img src="Images/regresionlienalmultiple1.png"  height=80>
 </p>
 
+## Usando Scikit-Learn
 <p align="center">
 <img src="Images/regresionlienalmultiple2.png"  height=90>
 </p>
 
-Existen más tipos de regresiones lienales, como la ponderada, ridge, lasso, mínimos cuadrados parciales, elasticnet y la logística
+- Existen más tipos de regresiones lienales, como la ponderada, ridge, lasso, mínimos cuadrados parciales, elasticnet y la logística.
 <br>
 
-<h2> Es importante tener en cuenta que para hacer regresión de manera rigurosa hay que hacer una validación de los datos <h2>
+<h2> Es importante tener en cuenta que para hacer regresión de manera rigurosa hay que hacer una validación de los datos. <h2>
 
-# Validacion de los Datos
+# Validación de los Datos
 
-**Limpieza de datos:** Elimina los valores atípicos, los datos faltantes y las observaciones duplicadas. La presencia de datos erróneos puede afectar negativamente la calidad del modelo.
+**Limpieza de Datos:** Elimina los valores atípicos, los datos faltantes y las observaciones duplicadas. La presencia de datos erróneos puede afectar negativamente la calidad del modelo.
 
 **Normalidad:** Verifica la distribución de las variables para asegurarte de que se ajusten a una distribución normal. La regresión lineal múltiple asume que las variables independientes y dependiente siguen una distribución normal.
 
