@@ -1,7 +1,7 @@
 # Regresión Lineal
 Es un método utilizado para modelar la relación entre una o más variables independientes (predictoras) y una variable dependiente (respuesta) continua. La relación entre las variables se modela como una función lineal.
 
-# Regresión Lineal Simple
+# [Regresión Lineal Simple](https://github.com/jrguignan/Regresion_Lineal_simple_y_multiple/blob/main/regresion_lineal_simple.ipynb)
 <p align="center">
 <img src="Images/regresionlienalsimple.png"  height=500>
 </p>
@@ -9,7 +9,7 @@ Es un método utilizado para modelar la relación entre una o más variables ind
 
 
 
-# Regresión Lineal Múltiple
+# [Regresión Lineal Múltiple](https://github.com/jrguignan/Regresion_Lineal_simple_y_multiple/blob/main/regresion_lineal_multiple.ipynb)
 
 <p align="center">
 <img src="Images/regresionlienalmultiple.png"  height=80>
