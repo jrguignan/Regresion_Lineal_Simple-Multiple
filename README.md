@@ -14,9 +14,9 @@ datos. Para este caso el modelo es el de una recta, de las cual nos toca consegu
 
 $$Y = \beta_{0} + \beta_{1}x $$
 
-$$\beta_{0} = \frac{\left( n \sum_{1}^{n} xy \right) - \sum_{1}^{n} x \sum_{1}^{n} y}{}  $$
+$$\beta_{0} = \frac{A}{B} A=\left( n \sum_{1}^{n} xy \right) - \sum_{1}^{n} x \sum_{1}^{n} y ; B = \left(n \sum_{1}^{n} x^2 \right) - \left( \sum_{1}^{n} x \right)^2  $$
 
-$$\beta_{1} = \left(n \sum_{1}^{n} x^2 \right) - \left( \sum_{1}^{n} x \right)^2 $$
+$$\beta_{1} =  $$
 
 
 
