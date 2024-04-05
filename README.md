@@ -60,15 +60,17 @@ $$Y = \beta_{0} + \beta_{1}x_1 +...+\beta_{k}x_k  $$
 <img src="Images/M_SQ1a.png"  height=160>
 </p>
 
-
+#### Donde:
+n : Es el número de datos por variable independiente. <br>
+k : Es el número variables independientes. <br>
+X : matriz(nxk+1) con los datos de la variable independiente. <br>
+Y : matriz (nx1) con los datos de la variable dependiente.  <br>
 
 $$ (X^TX)\beta = X^TY $$
 
 Si $X^TX$ es invertible, se optienen los coeficientes de:
 
 $$ \beta = (X^TX)^{-1} X^TY $$
-
-
 
 
 ## Desde Cero - from scratch
