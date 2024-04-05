@@ -10,9 +10,9 @@ Un análisis de la relación entre x y Y requiere el planteamiento de un modelo 
 ideal que, en esencia, define cómo percibimos que el sistema en cuestión generó los 
 datos. Para este caso el modelo es el de una recta, de las cual nos toca conseguir los valores de $\beta_{0}$ y $\beta_{1}$.
 
-## Modelo Estadístico:
+### Modelo Estadístico:
 
-     $ Y = \beta_{0} + \beta_{1}x  $
+$$ Y = \beta_{0} + \beta_{1}x  $$
 
 
 
