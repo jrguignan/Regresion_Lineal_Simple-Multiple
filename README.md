@@ -12,7 +12,7 @@ datos. Para este caso el modelo es el de una recta, de las cual nos toca consegu
 
 ## Modelo Estadístico:
 
-     $$ Y = \beta_{0} + \beta_{1}x  $$
+     $ Y = \beta_{0} + \beta_{1}x  $
 
 
 
