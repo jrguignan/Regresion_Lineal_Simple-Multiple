@@ -15,14 +15,14 @@ datos. Para este caso el modelo es el de una recta, de las cual nos toca consegu
 $$Y = \beta_{0} + \beta_{1}x $$
 
 <p align="center">
-<img src="Images/S_EQ1.png"  height=200>
+<img src="Images/S_EQ1.png"  height=80>
 </p>
 
 <p align="center">
-<img src="Images/S_EQ2.png"  height=200>
+<img src="Images/S_EQ2.png"  height=80>
 </p>
 
-####Donde:
+#### Donde:
 n : Es el número de datos por variable
 x : Variable Dependiete
 y : Variable Independiente 
