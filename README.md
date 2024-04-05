@@ -23,9 +23,9 @@ $$Y = \beta_{0} + \beta_{1}x $$
 </p>
 
 #### Donde:
-n : Es el número de datos por variable <br>
-x : Variable Dependiete <br>
-y : Variable Independiente  <br>
+n : Es el número de datos por variable. <br>
+x : Variable Dependiete. <br>
+y : Variable Independiente.  <br>
 
 <br>
 
@@ -45,9 +45,31 @@ y : Variable Independiente  <br>
 
 
 
-
-
 # [Regresión Lineal Múltiple](https://github.com/jrguignan/Regresion_Lineal_simple_y_multiple/blob/main/regresion_lineal_multiple.ipynb)
+
+En la mayoría de los problemas de investigación en los que se aplica el análisis de regresión se necesita más de una variable independiente para el modelo de regresión. La 
+complejidad de la mayoría de mecanismos científicos es tal que, con el fin de predecir 
+una respuesta importante, se requiere un modelo de regresión múltiple. Cuando un 
+modelo es lineal en los coeficientes se denomina modelo de regresión lineal múltiple.
+
+### Modelo Estadístico:
+
+$$Y = \beta_{0} + \beta_{1}x_1 +...+\beta_{k}x_k  $$
+
+<p align="center">
+<img src="Images/M_SQ1.png"  height=100>
+</p>
+
+
+
+$$ (X^tX)\beta = X^tY $$
+
+Si $X^tX$ es invertible, se optienen los coeficientes de:
+
+$$ \beta = (X^tX)^{-1} X^tY $$
+
+
+
 
 ## Desde Cero - from scratch
 <p align="center">
@@ -59,7 +81,7 @@ y : Variable Independiente  <br>
 <img src="Images/regresionlienalmultiple2.png"  height=90>
 </p>
 
-*nota:* Existen más tipos de regresiones lienales, como la ponderada, ridge, lasso, mínimos cuadrados parciales, elasticnet y la logística.
+*nota:* Existen más tipos de regresiones lineales, como la ponderada, ridge, lasso, mínimos cuadrados parciales, elasticnet y la logística.
 <br>
 
 # Conclusión
