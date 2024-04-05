@@ -6,11 +6,16 @@ Es un método utilizado para modelar la relación entre una o más variables ind
 
 # [Regresión Lineal Simple](https://github.com/jrguignan/Regresion_Lineal_simple_y_multiple/blob/main/regresion_lineal_simple.ipynb)
 
-Un análisis de la relación entre x y Y requiere el planteamiento de un modelo estadístico. Con frecuencia un estadístico utiliza un modelo como representación de un 
+Un análisis de la relación entre x y Y requiere el planteamiento de un modelo estadístico. Con frecuencia un estadístico utiliza un modelo como representación de un 
 ideal que, en esencia, define cómo percibimos que el sistema en cuestión generó los 
-datos.
+datos. Para este caso el modelo es el de una recta, de las cual nos toca conseguir los valores de $\beta_{0}$ y $\beta_{1}$.
 
-$$ Y = \beta_{0} + \beta^{1}x + \epsilon   $$
+## Modelo Estadístico:
+
+     $$ Y = \beta_{0} + \beta_{1}x  $$
+
+
+
 
 
 
