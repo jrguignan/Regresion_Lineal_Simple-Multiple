@@ -57,7 +57,7 @@ modelo es lineal en los coeficientes se denomina modelo de regresión lineal mú
 $$Y = \beta_{0} + \beta_{1}x_1 +...+\beta_{k}x_k  $$
 
 <p align="center">
-<img src="Images/M_SQ1.png"  height=160>
+<img src="Images/M_SQ1a.png"  height=160>
 </p>
 
 
