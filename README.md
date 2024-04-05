@@ -12,8 +12,10 @@ datos. Para este caso el modelo es el de una recta, de las cual nos toca consegu
 
 ### Modelo Estadístico:
 
-$$ Y = \beta_{0} + \beta_{1}x  $$
-$$ \beta_{0} = (n sum_{1}^{n}xy) - sum_{1}^{n}x sum_{1}^{n}y  $$
+$$ Y = \beta_{0} + \beta_{1}x \\ 
+
+\beta_{0} = (n sum_{1}^{n}xy) - sum_{1}^{n}x sum_{1}^{n}y  $$
+
 $$ \beta_{1} = $$
 
 
