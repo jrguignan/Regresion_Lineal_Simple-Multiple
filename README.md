@@ -23,9 +23,9 @@ $$Y = \beta_{0} + \beta_{1}x $$
 </p>
 
 #### Donde:
-n : Es el número de datos por variable
-x : Variable Dependiete
-y : Variable Independiente 
+n : Es el número de datos por variable <br>
+x : Variable Dependiete <br>
+y : Variable Independiente  <br>
 
 <br>
 
