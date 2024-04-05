@@ -57,16 +57,16 @@ modelo es lineal en los coeficientes se denomina modelo de regresión lineal mú
 $$Y = \beta_{0} + \beta_{1}x_1 +...+\beta_{k}x_k  $$
 
 <p align="center">
-<img src="Images/M_SQ1.png"  height=100>
+<img src="Images/M_SQ1.png"  height=200>
 </p>
 
 
 
-$$ (X^tX)\beta = X^tY $$
+$$ (X^TX)\beta = X^TY $$
 
-Si $X^tX$ es invertible, se optienen los coeficientes de:
+Si $X^TX$ es invertible, se optienen los coeficientes de:
 
-$$ \beta = (X^tX)^{-1} X^tY $$
+$$ \beta = (X^TX)^{-1} X^TY $$
 
 
 
