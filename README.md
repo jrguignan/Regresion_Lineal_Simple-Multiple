@@ -6,6 +6,14 @@ Es un método utilizado para modelar la relación entre una o más variables ind
 
 # [Regresión Lineal Simple](https://github.com/jrguignan/Regresion_Lineal_simple_y_multiple/blob/main/regresion_lineal_simple.ipynb)
 
+Un análisis de la relación entre x y Y requiere el planteamiento de un modelo estadístico. Con frecuencia un estadístico utiliza un modelo como representación de un 
+ideal que, en esencia, define cómo percibimos que el sistema en cuestión generó los 
+datos.
+
+$$ Y = \beta_{0} + \beta^{1}x + \epsilon   $$
+
+
+
 
 <p align="center">
 <img src="Images/regresionlienal_simple.png"  height=300>
@@ -40,13 +48,13 @@ Es un método utilizado para modelar la relación entre una o más variables ind
 *nota:* Existen más tipos de regresiones lienales, como la ponderada, ridge, lasso, mínimos cuadrados parciales, elasticnet y la logística.
 <br>
 
-# Conclusiones
+# Conclusión
 
-Se produjo lo que se esperaba, dio los mismos valores tanto para los cálculos con ecuacines análiticas como con el uso de la librería sckikit-learn, para 8 decimales dio exactamente igual.
+Se produjo lo que se esperaba, dieron los mismos valores tanto para los cálculos con ecuacines análiticas como con el uso de la librería sckikit-learn, para 8 decimales dio exactamente igual.
 
 
 
-<h2> Es importante tener en cuenta que para hacer regresión de manera rigurosa hay que hacer una validación de los datos. <h2>
+<h2> Es importante tener en cuenta que para hacer regresión de manera rigurosa, hay que hacer una validación de los datos. <h2>
 
 
 # Validación de los Datos
